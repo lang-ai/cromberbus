@@ -1,4 +1,6 @@
-module github.com/chiguirez/cromberbus/v2
+module github.com/lang-ai/cromberbus
+
+go 1.16
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/chiguirez/cromberbus/v2"
+	"github.com/lang-ai/cromberbus"
 )
 
 type RegisterUserCommand struct {
